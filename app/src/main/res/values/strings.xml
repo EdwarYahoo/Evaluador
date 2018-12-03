@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evaluador</string>
+    <string name="txt_view_string">Est maessss</string>
+    <string name="Mat_string">__Mat</string>
+    <string name="Qui_string">__Qui</string>
+    <string name="Fis_string">__Fis</string>
+    <string name="Btn">___=___</string>
+</resources>
+
+
+
